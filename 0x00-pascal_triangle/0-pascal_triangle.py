@@ -2,6 +2,8 @@
 """
 A python module for working with pascals triangle
 """
+
+
 def pascal_triangle(n):
     """
     a method that returns a list of list of pascal triangle
